@@ -7,7 +7,7 @@ public class pseudocodeTwo {
         int y = (1+1) * 2;
         int z = 1 + (1*2);
         int a = 1 + 1 * 2 / 2;
-        int b = (1 + 1 + 2) / 2;
+        int b = (1 + 1 * 2) / 2;
 
         System.out.println(x);
         System.out.println(y);
